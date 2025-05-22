@@ -1,4 +1,4 @@
-# 🕊️ DailyTextJW2025
+# 🕊️ DailyTextJW2025 (MAY 2025)
 
 A simple Python-powered desktop widget that displays the **Daily Text** from [JW.org](https://wol.jw.org/en/wol/h/r1/lp-e) each day.
  This tool was made to help me read the daily text from my work PC 😊
