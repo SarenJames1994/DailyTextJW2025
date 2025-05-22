@@ -1,7 +1,7 @@
 # 🕊️ DailyTextJW2025
 
-A simple Python-powered desktop widget that displays the **Daily Text** from [JW.org](https://wol.jw.org/en/wol/h/r1/lp-e) each day
-This tool was made to help me read the daily text each day 😊
+A simple Python-powered desktop widget that displays the **Daily Text** from [JW.org](https://wol.jw.org/en/wol/h/r1/lp-e) each day.
+ This tool was made to help me read the daily text from my work PC 😊
 
 ---
 
@@ -33,9 +33,9 @@ This tool was made to help me read the daily text each day 😊
 5. 🚀 Optional: Add a shortcut to your .vbs file into: C:\Users\<YourName>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - This will launch it automatically every time you start your PC 💡
 
 
-❤️ Why I Made This
-I’m one of Jehovah’s Witnesses and I wanted a simple, beautiful way to see the Daily Text right on my desktop — no browser tabs, no distractions.
-This has helped me make reading it part of my routine each morning 🌞📖
+Why I Made This:
+I wanted a simple, beautiful way to see the Daily Text right on my desktop — no browser tabs, no distractions. 
+This has helped me make reading it part of my routine each morning.
 
 Feel free to use, modify or share with anyone it may help! 
 Much love from James (Australia)
